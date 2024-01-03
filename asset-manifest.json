@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/temperature/static/css/main.6791159c.css",
+    "main.js": "/temperature/static/js/main.ad23e506.js",
+    "index.html": "/temperature/index.html",
+    "main.6791159c.css.map": "/temperature/static/css/main.6791159c.css.map",
+    "main.ad23e506.js.map": "/temperature/static/js/main.ad23e506.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6791159c.css",
+    "static/js/main.ad23e506.js"
+  ]
+}
